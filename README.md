@@ -1,4 +1,5 @@
-CO2 Emission Prediction & Analysis
+# CO2 Emission Prediction & Analysis
+
 This project focuses on analyzing and predicting vehicle CO2 emissions based on technical specifications using Machine Learning. By leveraging Multiple Linear Regression, the model identifies key factors contributing to environmental impact and provides accurate emission forecasts.
 
 📊 Project Overview
